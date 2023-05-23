@@ -1,6 +1,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
+// create a bluetooth connection from qr code within an app to set network and other settings 
 const char* ssid = "ssid";
 const char* password = "pass";
 
